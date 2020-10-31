@@ -1,0 +1,18 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "io89 <ivan.osipov@futurice.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.24.91",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+   "scripts": {
+    "develop": "gatsby develop",
+    "build":"gatsby build"
+  }
+}
